@@ -12,6 +12,8 @@ export SUPABASE_URL="SUPABASEURLFROMSETTINGSSCREEN"
 export PRODUCTION_URL="www.example.com" # should point to your production URL, the PRODUCTION_URL is only used when not in the dev environment.
 ```
 
+For more context on how this application works check out my article on [Creating Protected Routes In NextJS With Supabase]( https://www.aboutmonica.com/blog/creating-protected-routes-in-next-js-with-supabase).
+
 The key and URL values should be replaced with those found in your Supabase project.
 
 First, run the development server:
